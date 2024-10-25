@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Script Runner
+Comment=ScriptRunner Runner written in Python
+Type=Service
+Version=1.0
+Icon=pythonbackend
+X-KDE-PluginInfo-Author=Jim Cornmell
+X-KDE-PluginInfo-Email=scriptRunner@cornmell.com
+X-KDE-PluginInfo-Name=ScriptRunner
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=org.kde.ScriptRunner
